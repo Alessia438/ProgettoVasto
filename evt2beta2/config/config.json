@@ -4,9 +4,9 @@
    "logoUrl": "",
    
    "dataUrl": "data/text/pilot_proemio.xml",
-   "sourcesUrl": "",
-   "analoguesUrl": "",
-   "sourcesTextsUrl": "",
+   "sourcesUrl": "data/text/sources.xml",
+   "analoguesUrl": "data/text/analogues.xml",
+   "sourcesTextsUrl": "data/text/sources/",
    "singleImagesUrl": "data/images/single/",
    "enableXMLdownload": false,
 
